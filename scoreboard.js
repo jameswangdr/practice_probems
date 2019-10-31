@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
 function scoreboard(scores, alice) {
     let m = alice.length
     let results = []
